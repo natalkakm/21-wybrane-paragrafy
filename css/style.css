@@ -1,0 +1,17 @@
+body{
+    background-color:khaki;
+}
+p{
+    background-color:pink;
+    height:100px;
+    width:100px;
+}
+
+.color{
+    background-color:gray;
+
+}
+
+.opacity{
+    opacity:0.5;
+}
